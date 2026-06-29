@@ -369,8 +369,8 @@ First Edition: November 20, 2025
 
 ## License
 
-**CC BY-SA 4.0**  
-**Creative Commons Attribution-ShareAlike 4.0 International**
+**CC BY 4.0**  
+**Creative Commons Attribution 4.0 International**
 
 This material may be shared, adapted, redistributed, researched, studied, and used for technical discussion under the conditions of attribution and share-alike.  
 If modified or adapted, sharing under the same or a compatible license is recommended.
@@ -379,7 +379,7 @@ If modified or adapted, sharing under the same or a compatible license is recomm
 
 ## Keywords
 
-Direct Planetary Cooling Framework, DPCF, Natural Complementary Science, planetary cooling, direct cooling, climate crisis, climate action, desert cooling, urban cooling, heat island mitigation, artificial seawater rivers, artificial seawater lakes, seawater utilization, desalination, reverse osmosis desalination, ultrasonic mist, mist cooling, latent heat, evaporative cooling, vegetation belt, desert greening, water circulation, heat capacity, surface temperature reduction, natural laws, Providence, Circulation, Harmony, Structure, AI co-creation, Artificial Wisdom, open invention, CC BY-SA 4.0
+Direct Planetary Cooling Framework, DPCF, Natural Complementary Science, planetary cooling, direct cooling, climate crisis, climate action, desert cooling, urban cooling, heat island mitigation, artificial seawater rivers, artificial seawater lakes, seawater utilization, desalination, reverse osmosis desalination, ultrasonic mist, mist cooling, latent heat, evaporative cooling, vegetation belt, desert greening, water circulation, heat capacity, surface temperature reduction, natural laws, Providence, Circulation, Harmony, Structure, AI co-creation, Artificial Wisdom, open invention, CC BY 4.0
 
 ---
 
