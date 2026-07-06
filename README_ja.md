@@ -2,6 +2,8 @@
 
 **言語 / Language:** 日本語 | [English Version](README.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## Direct Planetary Cooling Framework
 
 **急速な気温低下を目的とする、実装可能なオープン設計図**  
